@@ -145,7 +145,7 @@ Below Instructions are needed to pass the test cases.
   - Each Food item in the food items list should contain the test id with value as `foodItem`.
   - The Count of the food item should contain the test id with value as `active-count`.
   - The Button which is used to decrement the food item count should contain the test id with value as `decrement-count`.
-  - The Button which is used to increment the food item count should contain the test id with value as `increment-count`.
+  - The Button which is used to increment the food item count should contain the test id with value as `increment-count`
 - Cart:
 
   - You have to store the cart data in **<u>Local Storage</u>** only.
